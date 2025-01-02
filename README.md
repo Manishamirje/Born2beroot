@@ -1,18 +1,5 @@
 # Born2beroot
 
-Refer for Born2beroot - https://haglobah.github.io/Mastering-42/holy_graph/born2beroot.html 
-
-
-https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/anatomy.html chapter 2 to 10
-
-https://github.com/pasqualerossi/Born2BeRoot-Guide/blob/main/README.md 
-
-https://github.com/HEADLIGHTER/Born2BeRoot-42/blob/main/walkthrough37.txt - very helpful with nano feels easy to edit files
-
-https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md
-
-https://github.com/PublioElio/School-42-Born2beroot - has everything for eval knowledge
-
 
   You should know the following:
 SSh - Secured Socket Shell
@@ -86,3 +73,17 @@ SELinux rule sets are incredibly complex but with this complexity you have more 
 **Security-Enhanced Linux (SELinux)** is a Linux kernel security module that provides a mechanism for supporting access control security policies, including mandatory access controls (MAC). SELinux defines access controls for the applications, processes, and files on a system.
 
 **AppArmor** (and SMACK) is very straight forward. The profiles can be hand written by humans, or generated using aa-logprof. AppArmor uses path based control, making the system more transparent so it can be independently verified.” (source)
+
+
+Refer for Born2beroot - https://haglobah.github.io/Mastering-42/holy_graph/born2beroot.html 
+
+https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/anatomy.html - chapter 2 to 10
+
+https://github.com/pasqualerossi/Born2BeRoot-Guide/blob/main/README.md 
+
+https://github.com/HEADLIGHTER/Born2BeRoot-42/blob/main/walkthrough37.txt - very helpful with nano, feels easy to edit files
+
+https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md
+
+https://github.com/PublioElio/School-42-Born2beroot - has everything for eval knowledge
+
